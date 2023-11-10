@@ -1,8 +1,9 @@
 {
-  "name": "Mind map",
+  "name": "Mind Map",
   "id": "1302923510534510330",
   "api": "1.0.0",
   "main": "dist/code.js",
+  "ui": "dist/ui.html",
   "capabilities": [],
   "enableProposedApi": false,
   "editorType": [
